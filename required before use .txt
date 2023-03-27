@@ -1,0 +1,27 @@
+以下是XC三端合一的配置，请务必读完!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+键位配置:
+
+R  KillAura 杀戮光环                                                                                                                                  [来自meteor]
+F  Quiver 自动把力量buff的箭矢射到自己身上（用于对刀）                                                                          [来自meteor]
+C  CrystalAura 水晶光环                                                                                                                            [来自wurst(meteor的crystalaura暂时别用)]
+Z  Surround 自动用黑曜石围自己（用于防水晶）                                                                                         [来自meteor]
+X   Burrow 自动用黑曜石埋下半身（即能防水晶还能防止敌人跑进你的洞里,建议配合Surround一起用)              [来自meteor]
+V  Exp Theower 自动丢经验瓶（用于在打架时修装备）                                                                                [来自meteor]
+G  X-Ray 透视                                                                                                                                           [来自meteor]
+J   Echest Farmer 自动挖末影箱（用于获取黑曜石）                                                                                     [来自meteor]
+I   Scaffold 自动搭路                                                                                                                                  [来自meteor]
+P  FastPlace 加速你右键的速度                                                                                                                   [来自wurst]
+O  FastBreak 使你点一下方块就会自动挖（挖掉为止），同时增加你挖方块的速度（绕得了大部分服务器）        [来自wurst]
+H  Search 高亮你所制定的方块（可以打开bleach的gui制定，用中文搜方块即可！XC制定的是地狱门和床)         [来自bleach]
+B   BowAimBot 弓箭自瞄+拉满弓时自动射出箭                                                                                            [来自wurst和bleach]
+鼠标中键  扔珍珠(如果物品栏没珍珠则无效）/  准心对准的玩家设置friend这样开杀戮什么的就不会误伤)            [来自meteor] / [来自wurst和meteor]
+右Ctrl  Wurst的gui
+右Alt  Bleach的gui
+左Alt  Meteor的gui
+
+部分特殊的功能讲解：
+
+(1)Better Tooltips 更好的显示效果 (方便查看容器的内容）[来自meteor] : 打开背包鼠标对着潜影盒、末影箱、已创建的地图、旗帜、写了字的书可以直接看到里面的内容，然后对着末影箱和潜影盒点鼠标中建就可以打开查看详细内容，非常方便！（注意：使用中建时物品栏别放珍珠，不然照样会丢出去!)
+(2)Fake Player 放假人 (一般用于在战斗中迷惑敌人)  [来自meteor] ：打开meteor的gui找到Fake Player右键打开参数设置，中间有两个按钮一个是Spawn(放置假人）另一个是Clear(删除已放置的假人),还有可以给假人设置名称！（建议改成自己的名称，方便迷惑敌人）
+(3) Name Protect 显示假名 （有很多用处，比如伪装 , 但是皮肤不变QWQ）[来自meteor] 打开meteor的gui找到Name Protect右键打开参数设置，可以在里面修改想要显示的假名
